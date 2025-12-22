@@ -60,7 +60,7 @@ Experienced in student leadership and academic coordination.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alameenShameer&theme=github-dark" />
+  <img src="https://streak-stats.demolab.com?user=alameenShameer&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">

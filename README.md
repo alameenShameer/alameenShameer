@@ -53,18 +53,6 @@ Experienced in student leadership and academic coordination.
 
 ---
 
-## 📊 GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alameenShameer&show_icons=true&theme=github_dark&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alameenShameer&layout=compact&theme=github_dark" />
-</p>
-
----
-
 ## 🏅 Leadership Experience  
 
 - Former **Treasurer** – IC@M  

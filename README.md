@@ -57,7 +57,7 @@ Experienced in student leadership and academic coordination.
 
 - Former **Treasurer** – IC@M  
 - Former **Secretary** – MATRIX  
-- Led the structured revitalization of the CSE student association  
+- Led the structured revitalization of the CSE student association in our college  
 - Coordinated academic and technical initiatives  
 
 ---

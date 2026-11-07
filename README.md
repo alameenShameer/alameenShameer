@@ -1,75 +1,62 @@
-<h1 align="center">Al Ameen</h1>
+# Hi, I'm Al Ameen 👋
 
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=0A66C2&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Aspiring+Software+Developer;MERN+Stack+Learner;Technology+Enthusiast" />
-  </a>
-</p>
+**Computer Science Graduate | Software Development | AI/ML**
 
----
+I'm a Computer Science and Engineering graduate from MES Institute of Technology and Management, Kerala, with a **9.46/10 CGPA**.
 
-## 👨‍💻 Profile  
+Currently pursuing the **Certified Specialist in AI and ML** programme at ICT Academy of Kerala (ICTAK).
 
-Computer Science & Engineering student with a strong interest in software development and modern web technologies.  
-Actively building projects while strengthening fundamentals in programming, backend development, and problem-solving.  
-Experienced in student leadership and academic coordination.
+I'm interested in software development and applied AI, and I'm strengthening my foundations in Python, data analysis, backend development and machine learning.
 
----
+I have worked on academic and internship projects using AI-assisted development. My role involved defining requirements, guiding implementation through prompts and instructions, reviewing generated features and evaluating applications.
 
-## 🔍 Current Focus  
+## Current Learning
 
-- Full-stack web development (MERN stack)  
-- Backend development using Node.js & Express  
-- Retrieval-Augmented Generation (RAG) based systems  
-- Data Structures, Aptitude & Interview Preparation  
+- Python programming and problem-solving
+- NumPy, Pandas, Matplotlib and Seaborn
+- Machine Learning and AI fundamentals
+- FastAPI and REST APIs
+- React and web application development
+- SQL and relational databases
 
----
+## Technologies & Tools
 
-## 🛠️ Technical Skills  
+**Programming:** Python, JavaScript, C  
+**Frontend:** React, Vite, HTML5, CSS3  
+**Backend:** FastAPI, Django  
+**Databases:** PostgreSQL, SQLite  
+**AI & Retrieval:** RAG, prompt engineering, embeddings, semantic search, BM25, FAISS, Ollama, Gemini API  
+**Tools:** Git, GitHub, Docker, AWS EC2, GitHub Actions, Apache Jena Fuseki, SPARQL
 
-**Programming Languages**  
-- C  
-- Python (foundational)  
-- JavaScript  
+*Skills represent a mix of fundamentals, current learning and project exposure.*
 
-**Web & Backend Technologies**  
-- HTML5, CSS3  
-- Node.js  
-- Express.js  
-- MongoDB (learning)  
-- React (learning)
+## Selected Projects
 
-**Tools & Platforms**  
-- Git & GitHub  
-- Visual Studio Code  
-- Postman  
+### NexRag — Hybrid RAG Academic Assistant
+A college-focused academic assistant combining institutional document retrieval, knowledge graphs and locally hosted LLM responses.
 
----
+[View Repository](https://github.com/alameenShameer/NexRag)
 
-## 📌 Academic Projects  
+### NeoVault — Digital Banking Platform
+A collaborative digital banking application developed as part of Infosys Springboard Virtual Internship 6.0, featuring account management, transactions and AI-powered financial insights.
 
-- **Tourney** – Full-stack online turf booking platform with user management and booking workflows  
-- **NexRag** – RAG-based chatbot designed to reduce LLM hallucination using document retrieval  
+[View Repository](https://github.com/springboardmentor182c-t/modern-digital-banking-jan-26)
 
----
+### Tourney — Online Turf Booking Platform
+A turf booking application featuring user accounts, role-based workflows and slot reservations.
 
-## 🏅 Leadership Experience  
+## Education & Training
 
-- Former **Treasurer** – IC@M  
-- Former **Secretary** – MATRIX  
-- Led the structured revitalization of the CSE student association in our college  
-- Coordinated academic and technical initiatives  
+**B.Tech – Computer Science and Engineering**  
+MES Institute of Technology and Management | 2022–2026  
+CGPA: **9.46/10**
 
----
+**Certified Specialist in AI and ML**  
+ICT Academy of Kerala (ICTAK) | Currently pursuing
 
-## 📫 Contact  
+## Leadership
 
-- **Email:** alameencse2022@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/alameenshameer/  
-- **GitHub:** https://github.com/alameenShameer  
+- Secretary — MATRIX, CSE Students' Association (2024–2025)
+- Treasurer — IC@M, CSE Students' Association (2023–2024)
 
----
-
-<p align="center">
-  <i>Focused on continuous learning, consistency, and clean code.</i>
-</p>
+*Learning consistently. Building thoughtfully. Growing every day.*
